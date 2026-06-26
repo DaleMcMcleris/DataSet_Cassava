@@ -1,0 +1,102 @@
+[
+  {
+    "instruction": "How do I buy data bundles?",
+    "response": "Dial *143# and select Data Bundles, or use the Econet mobile app to purchase data bundles."
+  },
+  {
+    "instruction": "How do I register for EcoCash?",
+    "response": "Visit an Econet authorized agent or shop with your national ID and active SIM card to complete EcoCash registration."
+  },
+  {
+    "instruction": "My SIM card is blocked. What should I do?",
+    "response": "Visit the nearest Econet service center with your national ID to request SIM replacement or reactivation."
+  },
+  {
+    "instruction": "How do I check my airtime balance?",
+    "response": "Dial *143# or use the Econet mobile app to check your airtime balance."
+  },
+  {
+    "instruction": "How do I activate roaming?",
+    "response": "Contact Econet customer support or enable roaming in your mobile settings before traveling outside the country."
+  },
+  {
+    "instruction": "How do I send money using EcoCash?",
+    "response": "Dial *151# then select 'Send Money', enter the recipient number, amount, and confirm with your EcoCash PIN."
+  },
+  {
+    "instruction": "How do I reset my EcoCash PIN?",
+    "response": "Dial *151#, select 'My Account', then choose 'Reset PIN' and follow the verification steps."
+  },
+  {
+    "instruction": "I forgot my EcoCash PIN. What should I do?",
+    "response": "Dial *151#, select 'Forgot PIN', and follow the prompts to reset your PIN securely."
+  },
+  {
+    "instruction": "How do I buy airtime?",
+    "response": "Dial *143# or use the EcoCash wallet or Econet mobile app to buy airtime instantly."
+  },
+  {
+    "instruction": "How do I check my data balance?",
+    "response": "Dial *143# or use the Econet mobile app to view your remaining data balance."
+  },
+  {
+    "instruction": "My mobile internet is not working. What should I do?",
+    "response": "Restart your phone, ensure mobile data is enabled, check APN settings, or reinsert your SIM card."
+  },
+  {
+    "instruction": "Why is my network signal weak?",
+    "response": "Weak signal may be due to location or network congestion. Move to an open area or restart your phone."
+  },
+  {
+    "instruction": "How do I configure internet settings on my phone?",
+    "response": "Go to mobile network settings and set the APN to the correct Econet APN provided by customer support."
+  },
+  {
+    "instruction": "How do I contact Econet customer care?",
+    "response": "Dial 111 from an Econet line or visit the nearest Econet service center for assistance."
+  },
+  {
+    "instruction": "How do I check EcoCash balance?",
+    "response": "Dial *151# and select 'Check Balance' or use the EcoCash app."
+  },
+  {
+    "instruction": "How do I buy data using EcoCash?",
+    "response": "Dial *151#, select 'Buy Airtime/Data', choose data bundles, and confirm payment with your PIN."
+  },
+  {
+    "instruction": "How do I transfer airtime to another user?",
+    "response": "Dial the airtime transfer USSD code provided by your network operator and follow the prompts."
+  },
+  {
+    "instruction": "My SIM card has no signal. What should I do?",
+    "response": "Restart your phone, check SIM placement, and ensure your SIM is active. If the issue persists, visit a service center."
+  },
+  {
+    "instruction": "How do I activate a data bundle?",
+    "response": "Dial *143#, select Data Bundles, choose your preferred package, and confirm activation."
+  },
+  {
+    "instruction": "How do I stop unwanted subscriptions?",
+    "response": "Dial *143# and check active subscriptions, then unsubscribe from services you no longer want."
+  },
+  {
+    "instruction": "How do I check my phone number?",
+    "response": "Dial the network-specific 'My Number' USSD code or check in your phone settings under SIM information."
+  },
+  {
+    "instruction": "Why is my EcoCash transaction failing?",
+    "response": "Transaction failure may be due to insufficient balance, network issues, or incorrect PIN. Try again or contact support."
+  },
+  {
+    "instruction": "How do I increase my data speed?",
+    "response": "Ensure you are in a strong coverage area, close background apps, and check if your data bundle is active."
+  },
+  {
+    "instruction": "How do I activate international roaming?",
+    "response": "Contact Econet support or enable roaming in your account settings before leaving the country."
+  },
+  {
+    "instruction": "How do I replace a lost SIM card?",
+    "response": "Visit an Econet shop with your national ID to request a SIM replacement."
+  }
+]
